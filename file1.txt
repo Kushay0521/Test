@@ -1,1 +1,1 @@
-This is the first branch git repo from visual studio code !!
+This is the first git repo from visual studio code !!
